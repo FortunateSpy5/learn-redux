@@ -1,0 +1,27 @@
+{
+  "name": "learn-redux",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortunateSpy5/learn-redux.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "FortunateSpy5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FortunateSpy5/learn-redux/issues"
+  },
+  "homepage": "https://github.com/FortunateSpy5/learn-redux#readme"
+}
